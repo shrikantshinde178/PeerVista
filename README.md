@@ -1,7 +1,7 @@
 # PeerVista
 Peer-to-Peer Lending Platform (Spring Boot-based web application)
 
-## PeerLend - Peer-to-Peer Lending Platform
+## PeerVista - Peer-to-Peer Lending Platform
 
 **Note: This project is currently in progress. Backend development has been completed, and work on the frontend is underway.**
 
