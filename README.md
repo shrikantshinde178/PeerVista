@@ -1,11 +1,11 @@
-# PeerVista
-Peer-to-Peer Lending Platform (Spring Boot-based web application)
+# PeerVista : An Insurance Platform
+Peer-to-Peer Insurance Lending Platform (Spring Boot-based web application)
 
 ## PeerVista - Peer-to-Peer Lending Platform
 
 **Note: This project is currently in progress. Backend development has been completed, and work on the frontend is underway.**
 
-PeerVista is a Spring Boot-based web application that serves as a peer-to-peer lending platform. It enables users to engage in lending and borrowing transactions, manage expenses, and track credit scores. The application is designed with a focus on security, ease of use, and comprehensive financial management.
+PeerVista is a Spring Boot-based web application that serves as a peer-to-peer platform. It enables users to engage in lending and borrowing transactions, manage policies, applying policies and track records. The application is designed with a focus on security, ease of use, and comprehensive insurance management.
 
 ## Features
 
@@ -42,4 +42,4 @@ Modify the database configuration in the `application.properties` file according
 # Database Configuration
 spring.datasource.url=jdbc:mysql://localhost:3306/peervista
 spring.datasource.username=root
-spring.datasource.password=password
+spring.datasource.password=MysqlBery$%22
